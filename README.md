@@ -1,12 +1,14 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="./banniere.png" alt="bannière" width="1000" style="border-radius: 10px; border: 5px solid #3498db; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  <img src="./banniere.png" alt="bannière" width="1000" />
 </p>
 
 ---
 
-## 👋 Salut ! 
-Étudiante en informatique passionnée par le développement web front-end.
+# Hello Everyone 👋 ! 
+
+## About me
+With four years of frontend web development experience, I specialize in crafting interactive websites that captivate audiences. My mission is simple yet impactful: to deliver unique and memorable user experiences that go beyond client expectations.
 
 - 👩‍💻 J’adore créer des interfaces modernes et responsives.
 - 💡 J’ai des projets perso
