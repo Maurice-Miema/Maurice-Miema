@@ -42,17 +42,15 @@ Perfectionner mes compétences et contribuer à des projets à fort impact.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
 </p>
+
 ---
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maurice-Miema&show_icons=true&theme=radical" width="48%" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurice-Miema&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurice-Miema&layout=compact&theme=radical" width="50%" />
 </p>
 
 
