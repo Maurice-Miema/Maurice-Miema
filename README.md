@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- Bannière -->
+<p align="center">
+  <img src="https://www.canva.com/design/DAGmm_q9t2o/XyzgIyRTfw-T9lu7YqMQdQ/edit" alt="bannière" width="1000"/>
+</p>
 
-<!--
-**Maurice-Miema/Maurice-Miema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Salut ! 
+Étudiante en informatique passionnée par le développement web front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 J’adore créer des interfaces modernes et responsives.
+- 💡 J’ai des projets perso
+- ✨ Je partage aussi mes idées et tutos sur TikTok.
+
+---
+
+### 🧰 Mes outils préférés :
+
+---
+
+### 📫 Me contacter :
+
+- ✉️ [ton.email@example.com](mailto:ton.email@example.com)
+- 💬 WhatsApp : +243 xxx xxx xxx *(ou autre contact si tu veux)*
+- 🌐 [Mon Portfolio](https://tonportfolio.com)
+
+---
+
