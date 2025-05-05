@@ -46,15 +46,12 @@ Perfectionner mes compétences et contribuer à des projets à fort impact.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maurice-Miema&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maurice-Miema&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurice-Miema&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurice-Miema&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurice-Miema&layout=compact&theme=radical" alt="Langues les plus utilisées" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurice-Miema&layout=compact&theme=radical" width="50%" />
 </p>
 
 
