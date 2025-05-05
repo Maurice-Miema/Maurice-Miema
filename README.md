@@ -5,7 +5,7 @@
 
 ---
 
-### 👋 Salut ! 
+## 👋 Salut ! 
 Étudiante en informatique passionnée par le développement web front-end.
 
 - 👩‍💻 J’adore créer des interfaces modernes et responsives.
