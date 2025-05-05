@@ -22,7 +22,7 @@ Je cherche toujours à améliorer mes compétences en explorant de nouvelles tec
 - Code de qualité avec une approche utilisateur.
 
 ### 💡 Mon objectif :
-Perfectionner mes compétences et contribuer à des projets à fort impact.
+#### Perfectionner mes compétences et contribuer à des projets à fort impact.
 ---
 
 ### 🛠️ j'utilise et j'apprends les langages des programmations et technologies ci-dessous :
@@ -56,7 +56,7 @@ Perfectionner mes compétences et contribuer à des projets à fort impact.
 
 ### 📫 Me contacter :
 
-- ✉️ [mauricemiema90@gmail.com]
+- ✉️ mauricemiema90@gmail.com
 - 💬 WhatsApp : +243 81 36 32 272
 
 ---
