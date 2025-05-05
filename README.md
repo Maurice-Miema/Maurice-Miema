@@ -8,24 +8,21 @@
 # Hello Everyone 👋 ! 
 
 ## About me
-Salut ! Je suis **Maurice Miema**, un développeur web passionné basé à **Lubumbashi**, **RDC**. Depuis que j'ai découvert le développement web, je suis fasciné par la création de sites et d'applications web qui offrent une expérience utilisateur fluide et agréable. Ma mission est de résoudre des problèmes grâce à la technologie et de créer des produits qui facilitent la vie des utilisateurs.
+Je suis **Maurice Miema**, développeur web passionné basé à **Lubumbashi**, **RDC**. Je crée des **sites web responsives** et des **applications web interactives**, en me concentrant sur l’**expérience utilisateur**, la **performance** et la **sécurité**.
 
-Mon objectif est de créer des solutions web interactives et esthétiques, tout en optimisant la performance et la sécurité de chaque projet. J'adore explorer de nouvelles technologies et rester à jour avec les tendances de l'industrie pour améliorer constamment mes compétences.
+Je cherche constamment à améliorer mes compétences en explorant de nouvelles technologies et à résoudre des problèmes complexes grâce à la technologie.
 
 ### 🌱 Ce que je fais :
-- Je développe des **applications web** interactives, réactives et performantes.
-- Je crée des **sites web responsives**, accessibles sur tous les appareils (ordinateurs, tablettes, smartphones).
-- Je me concentre sur l’**expérience utilisateur**, la **performance** et la **sécurité** des applications.
-- Je travaille actuellement sur plusieurs projets personnels, explorant diverses technologies pour améliorer ma maîtrise du développement web.
+- Développement d'applications web performantes.
+- Création de sites web adaptatifs sur tous les appareils.
+- Travail sur plusieurs projets personnels pour perfectionner mes compétences.
 
 ### 🚀 Ce que j'apporte :
-- **Création de sites web dynamiques** et applications qui se distinguent par leur simplicité d'utilisation.
-- **Solutions sur mesure** pour répondre aux besoins uniques de chaque projet, tout en maintenant une qualité de code exceptionnelle.
-- Une **approche orientée utilisateur**, garantissant que chaque application que je développe est aussi intuitive que fonctionnelle.
+- Création de solutions web simples et dynamiques.
+- Code de qualité et approche orientée utilisateur.
 
 ### 💡 Mon objectif :
-Je cherche à perfectionner mes compétences en développement web et à contribuer à des projets à fort impact. J’aime travailler en équipe et collaborer avec d’autres développeurs, designers et créateurs pour atteindre des objectifs communs.
-
+Perfectionner mes compétences et contribuer à des projets ayant un fort impact.
 ---
 
 ### 🧰 Mes outils préférés :
