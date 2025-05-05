@@ -25,9 +25,9 @@ Je cherche toujours à améliorer mes compétences en explorant de nouvelles tec
 Perfectionner mes compétences et contribuer à des projets à fort impact.
 ---
 
-### 🛠️ Technologies que j’utilise
+### 🛠️ j'utilise et j'apprends les langages des programmations et technologies ci-dessous :
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
   <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS" width="40" />
