@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGmm_q9t2o/XyzgIyRTfw-T9lu7YqMQdQ/edit?utm_content=DAGmm_q9t2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="bannière" width="1000"/>
+  <img src="./banniere.png" alt="bannière" width="1000"/>
 </p>
 
 ---
