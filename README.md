@@ -45,7 +45,7 @@ Perfectionner mes compétences et contribuer à des projets à fort impact.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maurice-Miema&show_icons=true&theme=radical" width="48%" />
@@ -56,9 +56,8 @@ Perfectionner mes compétences et contribuer à des projets à fort impact.
 
 ### 📫 Me contacter :
 
-- ✉️ [ton.email@example.com](mailto:ton.email@example.com)
-- 💬 WhatsApp : +243 xxx xxx xxx *(ou autre contact si tu veux)*
-- 🌐 [Mon Portfolio](https://tonportfolio.com)
+- ✉️ [mauricemiema90@gmail.com]
+- 💬 WhatsApp : +243 81 36 32 272
 
 ---
 
