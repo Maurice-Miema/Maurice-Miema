@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="./banniere.png" alt="bannière" width="1000"/>
+  <img src="./banniere.png" alt="bannière" width="1000" style="border-radius: 10px;" />
 </p>
 
 ---
