@@ -8,21 +8,21 @@
 # Hello Everyone 👋 ! 
 
 ## About me
-Je suis **Maurice Miema**, développeur web passionné basé à **Lubumbashi**, **RDC**. Je crée des **sites web responsives** et des **applications web interactives**, en me concentrant sur l’**expérience utilisateur**, la **performance** et la **sécurité**.
+I am **Maurice Miema**, a passionate web developer based in **Lubumbashi**, **DRC**. I create **responsive websites** and **interactive web applications**, focusing on **user experience**, **performance**, and **security**.
 
-Je cherche constamment à améliorer mes compétences en explorant de nouvelles technologies et à résoudre des problèmes complexes grâce à la technologie.
+I am constantly seeking to improve my skills by exploring new technologies and solving complex problems through technology.
 
-### 🌱 Ce que je fais :
-- Développement d'applications web performantes.
-- Création de sites web adaptatifs sur tous les appareils.
-- Travail sur plusieurs projets personnels pour perfectionner mes compétences.
+### 🌱 What I do:
+- Developing high-performance web applications.
+- Creating responsive websites that adapt across all devices.
+- Working on several personal projects to refine my skills.
 
-### 🚀 Ce que j'apporte :
-- Création de solutions web simples et dynamiques.
-- Code de qualité et approche orientée utilisateur.
+### 🚀 What I bring:
+- Creating simple and dynamic web solutions.
+- High-quality code with a user-centered approach.
 
-### 💡 Mon objectif :
-Perfectionner mes compétences et contribuer à des projets ayant un fort impact.
+### 💡 My goal:
+To refine my skills and contribute to impactful projects.
 ---
 
 ### 🧰 Mes outils préférés :
