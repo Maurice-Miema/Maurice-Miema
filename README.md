@@ -47,6 +47,7 @@ Perfectionner mes compétences et contribuer à des projets à fort impact.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maurice-Miema&show_icons=true&theme=radical" width="48%" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurice-Miema&theme=radical" width="48%" />
 </p>
 
