@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="./banniere.png" alt="bannière" width="1000" />
+  <img src="./Banniere_Github.png" alt="bannière" width="1000" />
 </p>
 
 ---
